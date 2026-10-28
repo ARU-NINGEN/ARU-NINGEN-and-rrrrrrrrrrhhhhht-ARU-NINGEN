@@ -25,6 +25,10 @@
   background-color: #bfbfbf;
 }
 
+html {
+  background-color: #000000
+}
+
 h1 {
   color: #ffffff;
   font-size: 30pt;
@@ -40,6 +44,4 @@ p {
   font-weight: 500;
   color: #000000;
 }
-html {
-  background-color: #000000
-}
+
