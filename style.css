@@ -1,0 +1,26 @@
+.tab-bar {
+  display: flex;
+  background-color: #000000;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.5);
+}
+
+.tab {
+  color: #ffffff;
+  padding: 14px 20px;
+  text-decoration: none;
+  font-family: "Tsukushi B Round Gothic", "Hiragino Kaku Gothic ProN", "Hiragino Kaku Gothic Pro", sans-serif;
+  font-size: 14px;
+  transition: background-color 0.5s;
+}
+
+.tab:hover {
+  background-color: #bfbfbf;
+}
+
+.tab.active {
+  background-color: #e6e6e6;
+}
