@@ -37,6 +37,14 @@ h1 {
   mix-blend-mode: difference;
 }
 
+h2{
+  color: #ffffff;
+  font-size: 25pt;
+  font-family: "Tsukushi B Round Gothic", "Hiragino Kaku Gothic ProN", "Hiragino Kaku Gothic Pro", sans-serif;
+  font-weight: 600;
+  mix-blend-mode: difference;
+}
+
 p {
   color: #ffffff;
   font-size: 15pt;
