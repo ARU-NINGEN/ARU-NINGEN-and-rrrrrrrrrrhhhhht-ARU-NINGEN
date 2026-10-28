@@ -24,3 +24,22 @@
 .tab.active {
   background-color: #bfbfbf;
 }
+
+h1 {
+  color: #ffffff;
+  font-size: 30pt;
+  font-family: "Tsukushi B Round Gothic", "Hiragino Kaku Gothic ProN", "Hiragino Kaku Gothic Pro", sans-serif;
+  font-weight: 600;
+  color: #000000;
+}
+
+p {
+  color: #ffffff;
+  font-size: 15pt;
+  font-family: "Tsukushi B Round Gothic", "Hiragino Kaku Gothic ProN", "Hiragino Kaku Gothic Pro", sans-serif;
+  font-weight: 500;
+  color: #000000;
+}
+html {
+  background-color: #000000
+}
