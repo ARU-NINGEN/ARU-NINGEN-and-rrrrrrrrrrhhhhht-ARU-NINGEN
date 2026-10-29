@@ -47,6 +47,15 @@ h2 {
   text-decoration: none;
 }
 
+h3 {
+  color: #ffffff;
+  font-size: 22.5pt;
+  font-family: "Tsukushi B Round Gothic", "Hiragino Kaku Gothic ProN", "Hiragino Kaku Gothic Pro", sans-serif;
+  font-weight: 500;
+  mix-blend-mode: difference;
+  text-decoration: none;
+}
+
 p {
   color: #ffffff;
   font-size: 15pt;
