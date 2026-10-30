@@ -19,6 +19,7 @@
   transition: background-color 0.5s;
   width:25vw;
   height:auto;
+  text-align: center;
 }
 
 .tab:hover {
@@ -29,6 +30,7 @@
   background-color: #bfbfbf;
   width:25vw;
   height:auto;
+  text-align: center;
 }
 
 body {
