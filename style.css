@@ -1,8 +1,3 @@
-:root {
-  --tab: 4;
-}
-
-
 .tab-bar {
   display: flex;
   background-color: #000000;
@@ -22,7 +17,7 @@
   font-family: "Tsukushi B Round Gothic", "Hiragino Kaku Gothic ProN", "Hiragino Kaku Gothic Pro", sans-serif;
   font-size: 14px;
   transition: background-color 0.5s;
-  width: calc(100 / var(--tab))vw;
+  width: 25vw
   height:auto;
   text-align: center;
 }
@@ -33,7 +28,7 @@
 
 .tab.active {
   background-color: #bfbfbf;
-  width: calc(100 / var(--tab))vw;
+  width: 25vw
   height: auto;
   text-align: center;
 }
