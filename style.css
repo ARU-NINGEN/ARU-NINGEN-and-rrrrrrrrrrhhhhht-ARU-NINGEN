@@ -17,7 +17,7 @@
   font-family: -apple-system, "Tsukushi B Round Gothic", "Hiragino Kaku Gothic ProN", "Hiragino Kaku Gothic Pro", sans-serif;
   font-size: 14px;
   transition: background-color 0.5s;
-  width: 25vw;
+  width: 20vw;
   height:auto;
   text-align: center;
 }
@@ -28,7 +28,7 @@
 
 .tab.active {
   background-color: #bfbfbf;
-  width: 25vw;
+  width: 20vw;
   height: auto;
   text-align: center;
 }
